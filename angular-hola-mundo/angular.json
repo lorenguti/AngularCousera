@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-hola-mundo"
+    }
+  },
+  "defaultProject": "angular-hola-mundo",
+  "cli": {
+    "analytics": "5f44eb68-eb78-4411-ae5d-d8a6c8bbdcdb"
+  }
 }
